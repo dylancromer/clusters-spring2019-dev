@@ -1,0 +1,7 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/dylancromer/clusters-spring2019
+	branch = master
+[submodule "themes/reveal-hugo"]
+	path = themes/reveal-hugo
+	url = https://github.com/dzello/reveal-hugo

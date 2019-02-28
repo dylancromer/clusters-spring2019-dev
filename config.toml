@@ -1,0 +1,13 @@
+baseurl = "//dylancromer.com/clusters-spring2019/"               # Your domain name. Must end with "/"
+languageCode = "en-us"
+title = "Cosmology from Galaxy Clusters"
+
+theme = "reveal-hugo"
+
+[outputFormats.Reveal]
+baseName = "index"
+mediaType = "text/html"
+isHTML = true
+
+[params.reveal_hugo]
+theme = "black"
