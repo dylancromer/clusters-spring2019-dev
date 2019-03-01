@@ -16,12 +16,10 @@ We focus on the first and last today
 
 ---
 
-## Acceleration
+#### Acceleration + Neutrino masses - how to measure?
 
 ![history](images/history.jpg)
 
 ---
 
-## Link - Growth of Structure
-
-![growth1](images/growth1.jpg)
+{{< slide background-image="images/growth1.jpg" >}}

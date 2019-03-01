@@ -3,17 +3,17 @@ weight = 30
 hasMath = true
 +++
 
-![growth2](images/growth2.jpg)
+{{< slide background-image="images/growth2.jpg" >}}
 
 ---
+
+{{< slide background-image="images/coma.jpg" >}}
 
 ## Galaxy Clusters
 
-![coma](images/coma.jpg)
-
 ---
 
-![virgo](images/virgo.jpg)
+{{< slide background-image="images/virgo.jpg" >}}
 
 ---
 
@@ -35,7 +35,7 @@ hasMath = true
 
 ## Using tSZ Clusters for Constraints
 
-![workflow](workflow.png)
+![workflow](images/workflow.png)
 
 ---
 
