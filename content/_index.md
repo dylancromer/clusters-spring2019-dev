@@ -1,5 +1,5 @@
 +++
-title = "The Original Discovery of Pulsars"
+title = "Cosmology with Galaxy Clusters"
 outputs = ["Reveal"]
 hasMath = true
 +++
@@ -8,4 +8,3 @@ hasMath = true
 
 Dylan Cromer
 
----
